@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luiz Fernando</h1>
 <h3 align="center">A web development lover</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gifs.eco.br/wp-content/uploads/2021/09/lo-fi-aesthetic-gifs-14.gif">
+<img align="right" alt="Coding" width="400" src="[https://gifs.eco.br/wp-content/uploads/2021/09/lo-fi-aesthetic-gifs-14.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhlZGwwMHFybnkyaDB5ejYybHFzaHZnbTdrZ2Z1Z2phazh2NzBvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizfernandin&show_icons=true&locale=en&layout=compact" alt="luizfernandin" /></p>
 
